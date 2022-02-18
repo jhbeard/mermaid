@@ -141,6 +141,8 @@ They also serve as proof of concept, for the variety of things that can be built
 - [Docsy Hugo Theme](https://www.docsy.dev/docs/adding-content/lookandfeel/#diagrams-with-mermaid) (Native support in theme)
 - [Codedoc](https://codedoc.cc/)
   - [codedoc-mermaid-plugin](https://www.npmjs.com/package/codedoc-mermaid-plugin)
+- [Docusaurus](https://docusaurus.io/)
+  - [mdx-mermaid](https://github.com/sjwall/mdx-mermaid)
 
 ## Browser Extensions
 
